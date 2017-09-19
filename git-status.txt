@@ -1,4 +1,4 @@
-La commande git status permet de visualiser les différences entre la HEAD et l'index.
-Les fichiers et répertoires ajoutés/modifiés/supprilés sont listés.
-La première partie de la liste contient les éléments qui seront committés si la commande "commit" est effectuée, la deuxième partie contient les 
-éléments qui doivent d'abord être ajoutés via la commande "add".
+ï»¿La commande git status permet de visualiser les diffÃ©rences entre la HEAD et l'index.
+Les fichiers et rÃ©pertoires ajoutÃ©s/modifiÃ©s/supprimÃ©s sont listÃ©s.
+La premiÃ¨re partie de la liste contient les Ã©lÃ©ments qui seront committÃ©s si la commande "commit" est effectuÃ©e, la deuxiÃ¨me partie contient les
+Ã©lÃ©ments qui doivent d'abord Ãªtre ajoutÃ©s via la commande "add".
